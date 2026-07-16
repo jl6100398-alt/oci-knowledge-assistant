@@ -42,23 +42,8 @@ El usuario simplemente realiza una pregunta y el asistente responde utilizando �
 
 # Arquitectura
 
-                     Usuario
-                        │
-                        ▼
-              Streamlit Web App
-                        │
-                        ▼
-                OCI Knowledge Assistant
-                        │
-        ┌───────────────┴───────────────┐
-        ▼                               ▼
-   FAISS Vector Store           Google Gemini
-        ▲                               │
-        │                               ▼
-Embeddings Locales              Respuesta Final
-        ▲
-        │
- Documentación PDF (OCI)
+![Arquitectura](Capturas/arquitectura.png)
+
 
 
 # Tecnologías utilizadas
@@ -199,19 +184,19 @@ Fuentes utilizadas
 
 Pantalla principal
 
-![Pantalla principal](Capturas/image.png)
+![Pantalla principal](Capturas/Pantalla-Principal.png)
 
 ---
 
 ## Consulta
 
-![Consulta](Capturas/image-1.png)
+![Consulta](Capturas/Consulta.png)
 
 ---
 
 ## Respuesta
 
-![Respuesta](Capturas/image-2.png)
+![Respuesta](Capturas/Respuesta.png)
 
 ---
 
