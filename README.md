@@ -3,6 +3,7 @@
 ![Portada](Capturas/home.png)
 
 Asistente inteligente basado en IA...
+IP OCI: http://129.146.7.124:8501/
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?logo=streamlit)
@@ -143,8 +144,9 @@ Ejecutar
 bash
 streamlit run streamlit_app.py
 
+# Abrir puertos 
 
----
+![REGLA](Capturas/OCI_REGLA.png)
 
 # Ejemplos de preguntas
 
@@ -203,6 +205,10 @@ Pantalla principal
 # Despliegue
 
 La aplicación será desplegada sobre Oracle Cloud Infrastructure (OCI) utilizando una instancia Compute Always Free.
+
+# Despliegue completado
+
+![Despliegue-OCI](Capturas/Despliegue.png)
 
 
 # Posibles mejoras
