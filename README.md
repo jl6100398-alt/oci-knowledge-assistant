@@ -117,6 +117,10 @@ La aplicación será desplegada sobre Oracle Cloud Infrastructure (OCI) utilizan
 
 ![Despliegue-OCI](Capturas/Despliegue.png)
 
+# Abrir puertos 
+
+![REGLA](Capturas/OCI_REGLA.png)
+
 
 ```
 
@@ -173,10 +177,6 @@ Ejecutar
 
 bash
 streamlit run streamlit_app.py
-
-# Abrir puertos 
-
-![REGLA](Capturas/OCI_REGLA.png)
 
 # Ejemplos de preguntas
 
