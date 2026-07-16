@@ -3,7 +3,7 @@
 ![Portada](Capturas/home.png)
 
 Asistente inteligente basado en IA...
-IP OCI: http://129.146.7.124:8501/
+IP OCI: 
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?logo=streamlit)
@@ -88,6 +88,36 @@ oci-knowledge-assistant/
 ├── requirements.txt
 ├── README.md
 ├── .env.example
+
+# Capturas
+
+Pantalla principal
+
+![Pantalla principal](Capturas/Pantalla-Principal.png)
+
+---
+
+## Consulta
+
+![Consulta](Capturas/Consulta.png)
+
+---
+
+## Respuesta
+
+![Respuesta](Capturas/Respuesta.png)
+
+
+
+# Despliegue
+
+La aplicación será desplegada sobre Oracle Cloud Infrastructure (OCI) utilizando una instancia Compute Always Free.
+
+# Despliegue completado
+
+![Despliegue-OCI](Capturas/Despliegue.png)
+
+
 ```
 
 
@@ -181,34 +211,6 @@ Fuentes utilizadas
 • data\Conceptos basicos OCI.pdf (Página 17) • data\Conceptos basicos OCI.pdf (Página 30)
 
 ---
-
-# Capturas
-
-Pantalla principal
-
-![Pantalla principal](Capturas/Pantalla-Principal.png)
-
----
-
-## Consulta
-
-![Consulta](Capturas/Consulta.png)
-
----
-
-## Respuesta
-
-![Respuesta](Capturas/Respuesta.png)
-
----
-
-# Despliegue
-
-La aplicación será desplegada sobre Oracle Cloud Infrastructure (OCI) utilizando una instancia Compute Always Free.
-
-# Despliegue completado
-
-![Despliegue-OCI](Capturas/Despliegue.png)
 
 
 # Posibles mejoras
