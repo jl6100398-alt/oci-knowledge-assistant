@@ -3,7 +3,9 @@
 ![Portada](Capturas/home.png)
 
 Asistente inteligente basado en IA...
-IP OCI: 
+
+IP DE ACCESSO A OCI: http://129.146.7.124:8501/
+
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?logo=streamlit)
